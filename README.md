@@ -2,7 +2,7 @@
 
 一款捐赠按钮样式，包含PayPal、支付宝、微信，可使用iframe直接嵌入，方便简洁。
 
-**Demo在线演示：**[https://cdn.rawgit.com/TinyJay/donate-page/6fe4f885/simple/index.html](https://cdn.rawgit.com/TinyJay/donate-page/6fe4f885/simple/index.html)
+**Demo在线演示：**[https://cdn.rawgit.com/zionfuo/donate-page/c75c3bf0/simple/index.html](https://cdn.rawgit.com/zionfuo/donate-page/c75c3bf0/simple/index.html)
 
 ![GIF动态效果图](http://upload-images.jianshu.io/upload_images/1819713-518ef42c3301b2fa.gif?imageMogr2/auto-orient/strip)
 
