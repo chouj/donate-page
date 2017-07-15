@@ -1,6 +1,6 @@
 # Donate-Page simple
 
-![GIF动态效果图](http://upload-images.jianshu.io/upload_images/1819713-518ef42c3301b2fa.gif?imageMogr2/auto-orient/strip)
+![GIF动态效果图](https://ws3.sinaimg.cn/large/c38cd5eagy1fhkm3c6er8g20a508vb2a.gif)
 
 #### 直接 Fork 之后需要修改以下内容为你的账户
 
@@ -12,13 +12,13 @@
 #### 针对不同项目可以直接在 URL 加入项目参数和金额，不过仅仅作用于 PayPal 方式.
 
 ```
-https://cdn.rawgit.com/TinyJay/donate-page/6fe4f885/simple/?item='donate-page&price=2'
+https://cdn.rawgit.com/zionfuo/donate-page/6fe4f885/simple/?item='donate-page&price=2'
 ```
 
 #### 使用 `iframe` 嵌入页面的代码，高度至少 `240px`，宽度至少 `310px`！
 
 ```
-<iframe src="https://cdn.rawgit.com/TinyJay/donate-page/6fe4f885/simple/" style="overflow-x:hidden;overflow-y:hidden; border:0xp none #fff; min-height:240px; width:100%;"  frameborder="0" scrolling="no"></iframe>
+<iframe src="https://cdn.rawgit.com/zionfuo/donate-page/6fe4f885/simple/" style="overflow-x:hidden;overflow-y:hidden; border:0xp none #fff; min-height:240px; width:100%;"  frameborder="0" scrolling="no"></iframe>
 ```
 
 ### License
